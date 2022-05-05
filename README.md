@@ -44,7 +44,7 @@
 
 <a href="https://github.com/RED5PY">
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RED5PY&repo=mallu-passwordlist&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RED5PY&repo=redspy-banner&theme=dark" />
 
 </a>
 
